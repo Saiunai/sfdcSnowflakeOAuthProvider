@@ -21,7 +21,7 @@ public class Snowflake_OAuth_Provider_Test {
     //Used to store the OAuth Authorization Endpoint
     public static String oauthAuthEndpoint = 'https://testAccount123.snowflakecomputing.com/oauth/authorize';
     
-    //Used to store the OAuth Authorization Endpoint
+    //Used to store the OAuth Token Authorization Endpoint
     public static String oauthTokenEndpoint = 'https://testAccount123.snowflakecomputing.com/oauth/token-request';
     
     //Used to store the OAuth Redirect Endpoint
