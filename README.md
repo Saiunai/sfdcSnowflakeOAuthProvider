@@ -1,2 +1,2 @@
 # sfdcSnowflakeOAuthProvider
-Contains code to create a custom OAuth Provider for Snowflake within Salesforce
+Contains apex classes to create a custom OAuth Provider for Snowflake within Salesforce
